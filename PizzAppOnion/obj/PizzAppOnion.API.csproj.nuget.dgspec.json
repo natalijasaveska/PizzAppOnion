@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion\\PizzAppOnion.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzApp.Services\\PizzAppOnion.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzApp.Services\\PizzAppOnion.Services.csproj",
+        "projectName": "PizzAppOnion.Services",
+        "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzApp.Services\\PizzAppOnion.Services.csproj",
+        "packagesPath": "C:\\Users\\Dinel.Hasikj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinel.Hasikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Contracts\\PizzAppOnion.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Contracts\\PizzAppOnion.Contracts.csproj"
+              },
+              "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Domain\\PizzAppOnion.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Domain\\PizzAppOnion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Contracts\\PizzAppOnion.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Contracts\\PizzAppOnion.Contracts.csproj",
+        "projectName": "PizzAppOnion.Contracts",
+        "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Contracts\\PizzAppOnion.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Dinel.Hasikj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinel.Hasikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Domain\\PizzAppOnion.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Domain\\PizzAppOnion.Domain.csproj",
+        "projectName": "PizzAppOnion.Domain",
+        "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Domain\\PizzAppOnion.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dinel.Hasikj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinel.Hasikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Storage\\PizzAppOnion.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Storage\\PizzAppOnion.Storage.csproj",
+        "projectName": "PizzAppOnion.Storage",
+        "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Storage\\PizzAppOnion.Storage.csproj",
+        "packagesPath": "C:\\Users\\Dinel.Hasikj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinel.Hasikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Domain\\PizzAppOnion.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Domain\\PizzAppOnion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion\\PizzAppOnion.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion\\PizzAppOnion.API.csproj",
+        "projectName": "PizzAppOnion.API",
+        "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion\\PizzAppOnion.API.csproj",
+        "packagesPath": "C:\\Users\\Dinel.Hasikj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinel.Hasikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzApp.Services\\PizzAppOnion.Services.csproj": {
+                "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzApp.Services\\PizzAppOnion.Services.csproj"
+              },
+              "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Contracts\\PizzAppOnion.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Contracts\\PizzAppOnion.Contracts.csproj"
+              },
+              "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Storage\\PizzAppOnion.Storage.csproj": {
+                "projectPath": "C:\\Users\\Dinel.Hasikj\\Downloads\\skwd10-net-08-aspnetmvc-main (4)\\Class 6\\PizzAppOnion\\PizzAppOnion.Storage\\PizzAppOnion.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

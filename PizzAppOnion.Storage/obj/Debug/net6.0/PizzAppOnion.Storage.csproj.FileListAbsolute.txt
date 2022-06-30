@@ -1,0 +1,15 @@
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\bin\Debug\net6.0\PizzAppOnion.Storage.deps.json
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\bin\Debug\net6.0\PizzAppOnion.Storage.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\bin\Debug\net6.0\PizzAppOnion.Storage.pdb
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\bin\Debug\net6.0\PizzAppOnion.Domain.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\bin\Debug\net6.0\PizzAppOnion.Domain.pdb
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\PizzAppOnion.Storage.csproj.AssemblyReference.cache
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\PizzAppOnion.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\PizzAppOnion.Storage.AssemblyInfoInputs.cache
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\PizzAppOnion.Storage.AssemblyInfo.cs
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\PizzAppOnion.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\PizzAppOnion.Storage.csproj.CopyComplete
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\PizzAppOnion.Storage.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\refint\PizzAppOnion.Storage.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\PizzAppOnion.Storage.pdb
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzAppOnion.Storage\obj\Debug\net6.0\ref\PizzAppOnion.Storage.dll

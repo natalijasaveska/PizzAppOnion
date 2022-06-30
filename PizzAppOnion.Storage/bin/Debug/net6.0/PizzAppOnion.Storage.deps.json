@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PizzAppOnion.Storage/1.0.0": {
+        "dependencies": {
+          "PizzAppOnion.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzAppOnion.Storage.dll": {}
+        }
+      },
+      "PizzAppOnion.Domain/1.0.0": {
+        "runtime": {
+          "PizzAppOnion.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzAppOnion.Storage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzAppOnion.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

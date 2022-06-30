@@ -1,0 +1,17 @@
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Services.deps.json
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Services.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Services.pdb
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Contracts.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Domain.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Contracts.pdb
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Domain.pdb
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzAppOnion.Services.csproj.AssemblyReference.cache
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzAppOnion.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzAppOnion.Services.AssemblyInfoInputs.cache
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzAppOnion.Services.AssemblyInfo.cs
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzAppOnion.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzAppOnion.Services.csproj.CopyComplete
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzAppOnion.Services.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\refint\PizzAppOnion.Services.dll
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzAppOnion.Services.pdb
+C:\Users\Dinel.Hasikj\Downloads\skwd10-net-08-aspnetmvc-main (4)\Class 6\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\ref\PizzAppOnion.Services.dll

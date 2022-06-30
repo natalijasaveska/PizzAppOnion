@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PizzAppOnion.Services/1.0.0": {
+        "dependencies": {
+          "PizzAppOnion.Contracts": "1.0.0",
+          "PizzAppOnion.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzAppOnion.Services.dll": {}
+        }
+      },
+      "PizzAppOnion.Contracts/1.0.0": {
+        "runtime": {
+          "PizzAppOnion.Contracts.dll": {}
+        }
+      },
+      "PizzAppOnion.Domain/1.0.0": {
+        "runtime": {
+          "PizzAppOnion.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzAppOnion.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzAppOnion.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzAppOnion.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
